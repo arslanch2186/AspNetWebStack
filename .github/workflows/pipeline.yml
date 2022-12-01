@@ -23,7 +23,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Test with dotnet
-      run: dotnet test --logger trx --results-directory "TestResults-6.0.x
+      run: dotnet test --logger trx --results-directory "TestResults-6.0.x"
     - name: Upload dotnet test results
       uses: actions/upload-artifact@v3
       with:
