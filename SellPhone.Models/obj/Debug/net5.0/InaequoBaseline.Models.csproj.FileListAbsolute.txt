@@ -1,0 +1,12 @@
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\bin\Debug\net5.0\InaequoBaseline.Models.deps.json
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\bin\Debug\net5.0\InaequoBaseline.Models.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\bin\Debug\net5.0\ref\InaequoBaseline.Models.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\bin\Debug\net5.0\InaequoBaseline.Models.pdb
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.AssemblyInfoInputs.cache
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.AssemblyInfo.cs
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.csproj.CoreCompileInputs.cache
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\ref\InaequoBaseline.Models.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.pdb
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Models\obj\Debug\net5.0\InaequoBaseline.Models.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.csproj.AssemblyReference.cache
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.AssemblyInfoInputs.cache
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.AssemblyInfo.cs
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.csproj.CoreCompileInputs.cache
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Services.deps.json
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Services.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\ref\InaequoBaseline.Services.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Services.pdb
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Db.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Models.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Db.pdb
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\bin\Debug\net5.0\InaequoBaseline.Models.pdb
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.csproj.CopyComplete
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\ref\InaequoBaseline.Services.dll
+D:\Inaequo Baseline\InaequoBaseline\InaequoBaseline.Services\obj\Debug\net5.0\InaequoBaseline.Services.pdb

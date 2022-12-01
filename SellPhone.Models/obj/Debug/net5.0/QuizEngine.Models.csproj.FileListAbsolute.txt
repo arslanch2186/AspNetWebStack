@@ -1,0 +1,12 @@
+D:\ToptalProject\QuizEngine\QuizEngine.Models\bin\Debug\net5.0\QuizEngine.Models.deps.json
+D:\ToptalProject\QuizEngine\QuizEngine.Models\bin\Debug\net5.0\QuizEngine.Models.dll
+D:\ToptalProject\QuizEngine\QuizEngine.Models\bin\Debug\net5.0\ref\QuizEngine.Models.dll
+D:\ToptalProject\QuizEngine\QuizEngine.Models\bin\Debug\net5.0\QuizEngine.Models.pdb
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.AssemblyInfoInputs.cache
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.AssemblyInfo.cs
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.csproj.CoreCompileInputs.cache
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.dll
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\ref\QuizEngine.Models.dll
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.pdb
+D:\ToptalProject\QuizEngine\QuizEngine.Models\obj\Debug\net5.0\QuizEngine.Models.csproj.AssemblyReference.cache

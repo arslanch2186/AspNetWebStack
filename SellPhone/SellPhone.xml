@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SellPhone</name>
+    </assembly>
+    <members>
+        <member name="M:SellPhone.Controllers.QuizController.GetQuiz(System.Guid)">
+            <summary>
+            get quiz with questions and options
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.CreateQuiz(SellPhone.Models.ViewModels.QuizDetailRequestModel)">
+            <summary>
+            create quiz with questions and options
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.UpdateQuiz(System.Guid,SellPhone.Models.ViewModels.QuizUpdateModel)">
+            <summary>
+            update quiz title and published status
+            </summary>
+            <param name="request"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.Delete(System.Guid)">
+            <summary>
+            delete quiz created by user
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.UpdateQuizDetail(System.Guid,SellPhone.Models.ViewModels.QuizDetailUpdateModel)">
+            <summary>
+            update quiz questions and options
+            </summary>
+            <param name="request"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.GetOtherUsersQuizes(SellPhone.Models.ViewModels.PagedResultRequest)">
+            <summary>
+            get other users quizes
+            </summary>
+            <param name="pagedResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.GetUserQuizes(SellPhone.Models.ViewModels.PagedResultRequest)">
+            <summary>
+            get own user quizes
+            </summary>
+            <param name="pagedResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizController.GetQuizForAttempt(System.Guid)">
+            <summary>
+            get quiz with questions and options for attempt
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizSolutionController.GetQuizSolutionDetail(System.Guid)">
+            <summary>
+            get the quiz solution
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizSolutionController.CreateQuizSolution(SellPhone.Models.ViewModels.QuizSolutionRequestModel)">
+            <summary>
+            create the quiz solution
+            </summary>
+            <param name="attemptedQuiz"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizSolutionController.GetOtheUsersQuizSolutions(SellPhone.Models.ViewModels.PagedResultRequest,System.Guid)">
+            <summary>
+            get the other users solution for a quiz
+            </summary>
+            <param name="pagedResult"></param>
+            <param name="quizId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.QuizSolutionController.GetUserQuizSolution(SellPhone.Models.ViewModels.PagedResultRequest)">
+            <summary>
+            get the users solution for different quizzes
+            </summary>
+            <param name="pagedResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Get(System.Guid)">
+            <summary>
+            get the user data
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Create(SellPhone.Models.ViewModels.UserCreateRequestModel)">
+            <summary>
+            register the user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Update(SellPhone.Models.ViewModels.UserCreateResponseModel)">
+            <summary>
+            update the user name and email
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.LoginUser(SellPhone.Models.ViewModels.UserLoginModel)">
+            <summary>
+            user login
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Delete(System.Guid)">
+            <summary>
+            delete the user
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.ResetPassword(SellPhone.Models.ViewModels.UserPasswordResetModel)">
+            <summary>
+            reset user password
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.RefreshAccessToken(SellPhone.Models.ViewModels.UserRefreshTokenRquestModel)">
+            <summary>
+            refresh access token
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.RevokeToken(System.Guid)">
+            <summary>
+            revok refresh token
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.UserLogout(System.Guid)">
+            <summary>
+            user logout
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

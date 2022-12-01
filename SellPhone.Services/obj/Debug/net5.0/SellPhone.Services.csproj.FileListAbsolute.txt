@@ -1,0 +1,17 @@
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Services.deps.json
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Services.dll
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Services.pdb
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Db.dll
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Models.dll
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Db.pdb
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\bin\Debug\net5.0\SellPhone.Models.pdb
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.csproj.AssemblyReference.cache
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.AssemblyInfoInputs.cache
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.AssemblyInfo.cs
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.csproj.CoreCompileInputs.cache
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.csproj.CopyComplete
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.dll
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\refint\SellPhone.Services.dll
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\SellPhone.Services.pdb
+C:\Workspace-Personal\InaequoBaseline\SellPhone.Services\obj\Debug\net5.0\ref\SellPhone.Services.dll

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SellPhone</name>
+    </assembly>
+    <members>
+        <member name="M:SellPhone.Controllers.BaseApiController`5.Get(`4)">
+            <summary>
+            Get the Entity by ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.BaseApiController`5.Create(`1)">
+            <summary>
+            Create the Entity
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.BaseApiController`5.Delete(`4)">
+            <summary>
+            Delete the entity
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.BaseApiController`5.Update(`4,`3)">
+            <summary>
+            Update the Entity
+            </summary>
+            <param name="update"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Get(System.Guid)">
+            <summary>
+            get the user data
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Create(SellPhone.Models.ViewModels.UserCreateRequestModel)">
+            <summary>
+            register the user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Update(SellPhone.Models.ViewModels.UserCreateResponseModel)">
+            <summary>
+            update the user name and email
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.LoginUser(SellPhone.Models.ViewModels.UserLoginModel)">
+            <summary>
+            user login
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.Delete(System.Guid)">
+            <summary>
+            delete the user
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.ResetPassword(SellPhone.Models.ViewModels.UserPasswordResetModel)">
+            <summary>
+            reset user password
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.RefreshAccessToken(SellPhone.Models.ViewModels.UserRefreshTokenRquestModel)">
+            <summary>
+            refresh access token
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.RevokeToken(System.Guid)">
+            <summary>
+            revok refresh token
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SellPhone.Controllers.UserController.UserLogout(System.Guid)">
+            <summary>
+            user logout
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

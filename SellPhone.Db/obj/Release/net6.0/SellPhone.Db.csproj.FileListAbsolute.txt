@@ -1,0 +1,17 @@
+D:\Projects\SellPhone-API\SellPhone.Db\bin\Release\net6.0\SellPhone.Db.deps.json
+D:\Projects\SellPhone-API\SellPhone.Db\bin\Release\net6.0\SellPhone.Db.runtimeconfig.json
+D:\Projects\SellPhone-API\SellPhone.Db\bin\Release\net6.0\SellPhone.Db.dll
+D:\Projects\SellPhone-API\SellPhone.Db\bin\Release\net6.0\SellPhone.Db.pdb
+D:\Projects\SellPhone-API\SellPhone.Db\bin\Release\net6.0\SellPhone.Models.dll
+D:\Projects\SellPhone-API\SellPhone.Db\bin\Release\net6.0\SellPhone.Models.pdb
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.csproj.AssemblyReference.cache
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.AssemblyInfoInputs.cache
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.AssemblyInfo.cs
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.csproj.CoreCompileInputs.cache
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.csproj.CopyComplete
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.dll
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\refint\SellPhone.Db.dll
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.pdb
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\SellPhone.Db.genruntimeconfig.cache
+D:\Projects\SellPhone-API\SellPhone.Db\obj\Release\net6.0\ref\SellPhone.Db.dll
