@@ -23,4 +23,4 @@ jobs:
            dotnet publish -c Release -o published
            ls
            chmod +x published
-           sudo mv /root/actions-runner/_work/AspNetWebStack/AspNetWebStack/published /vav/www/
+           sudo mv /root/actions-runner/_work/AspNetWebStack/AspNetWebStack/published /root/vav/www/
