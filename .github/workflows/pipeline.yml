@@ -22,4 +22,4 @@ jobs:
       run: |
            dotnet publish -c Release -o published
            ls
-           cp /root/actions-runner/_work/AspNetWebStack/AspNetWebStack/published /vav/www/
+           sudo cp /root/actions-runner/_work/AspNetWebStack/AspNetWebStack/published /vav/www/
