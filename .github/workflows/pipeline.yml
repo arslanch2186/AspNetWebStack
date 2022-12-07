@@ -21,5 +21,4 @@ jobs:
     - name: Build and Publish
       run: |
            dotnet publish -c Release -o published
-           cd /root/actions-runner/_work/AspNetWebStack/AspNetWebStack
            mv pulished /vav/www/
