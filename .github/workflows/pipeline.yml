@@ -20,4 +20,3 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet publish -c Release -o published
-    -
