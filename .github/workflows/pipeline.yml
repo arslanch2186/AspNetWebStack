@@ -21,4 +21,4 @@ jobs:
     - name: Build and Publish
       run: |
            dotnet publish -c Release -o published
-           mv pulished /vav/www/
+           mv /pulished /vav/www/
