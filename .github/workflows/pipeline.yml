@@ -18,7 +18,8 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       run: dotnet restore
-    - name: Build
-      run: dotnet publish -c Release -o published
-      run: cd /root/actions-runner/_work/AspNetWebStack/AspNetWebStack
-      run: mv pulished /vav/www/
+    - name: Build and Publish
+      run: |
+           dotnet publish -c Release -o published
+           cd /root/actions-runner/_work/AspNetWebStack/AspNetWebStack
+           mv pulished /vav/www/
